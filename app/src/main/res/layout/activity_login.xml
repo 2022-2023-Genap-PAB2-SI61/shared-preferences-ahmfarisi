@@ -22,8 +22,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Username"
-        android:textSize="21sp"
-        android:inputType="text"/>
+        android:inputType="text"
+        android:textSize="21sp"/>
 
     <EditText
         android:id="@+id/et_password"
